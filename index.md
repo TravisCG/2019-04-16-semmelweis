@@ -4,7 +4,7 @@ carpentry: "dc"    # what kind of Carpentry (must be either "lc" or "dc" or "swc
                       # Be sure to update the Carpentry type in _config.yml as well.  
 venue: "Semmelweis University"        # brief name of host site without address (e.g., "Euphoric State University")
 address: "Semmelweis University, 1 st Department of Pathology and Experimental Cancer
-Research, H-1085 Budapest, �ll?i �t 26."      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
+Research, H-1085 Budapest, Üll?i út 26."      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "hu"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
 latlng: "47.487300, 19.067110"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use https://www.latlong.net/)
@@ -13,7 +13,7 @@ humantime: "9:00 am - 4:30 pm"    # human-readable times for the workshop (e.g.,
 startdate: 2019-04-16      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2019-04-17        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Mark D. Robinson", "Dmytro Fishman"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
-helper: ["Krisztina Rig�", "Endre Sebesty�n", "Tibor Nagy"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
+helper: ["Krisztina Rigó", "Endre Sebestyén", "Tibor Nagy"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["sebestyen.endre@med.semmelweis-univ.hu"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes:             # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
@@ -326,7 +326,7 @@ and our administrator may contact you if we need any extra information.</h4>
             </li>
             <li>
                 <strong>
-                Select “Use the nano editor by default” and click on “Next”.
+                Select âUse the nano editor by defaultâ and click on âNextâ.
                 </strong>
             </li>
             {% comment %} Adjusting your PATH environment {% endcomment %}
