@@ -4,7 +4,7 @@ carpentry: "dc"    # what kind of Carpentry (must be either "lc" or "dc" or "swc
                       # Be sure to update the Carpentry type in _config.yml as well.  
 venue: "Semmelweis University"        # brief name of host site without address (e.g., "Euphoric State University")
 address: "Semmelweis University, 1 st Department of Pathology and Experimental Cancer
-Research, H-1085 Budapest, ÃœllÅ‘i Ãºt 26."      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
+Research, H-1085 Budapest, Üll?i út 26."      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "hu"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
 latlng: "47.487300, 19.067110"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use https://www.latlong.net/)
