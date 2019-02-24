@@ -1,7 +1,7 @@
 #------------------------------------------------------------
 # Values for this workshop.
 #------------------------------------------------------------
-
+encoding: UTF-8
 # Which carpentry is this ("swc", "dc", "lc", or "cp")?
 # swc: Software Carpentry
 # dc: Data Carpentry
