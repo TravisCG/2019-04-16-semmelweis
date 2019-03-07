@@ -455,3 +455,7 @@ eventbrite: 57894714650           # optional: alphanumeric key for Eventbrite re
   </div>
 </div> {% comment %} End of 'OpenRefine' section. {% endcomment %}
 
+<h2>Sponsors</h2>
+<p><img src="assets/img/omixon-logo.png" />Omixon Biocomputing Ltd.</p>
+<p><img src="assets/img/aok.png">Semmelweis University Scientific and Innovation Foundation</p>
+
