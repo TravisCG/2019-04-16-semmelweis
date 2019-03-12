@@ -15,7 +15,7 @@ enddate: 2019-04-18        # machine-readable end date for the workshop in YYYY-
 instructor: ["Mark D. Robinson", "Dmytro Fishman"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: ["Krisztina Rigó", "Endre Sebestyén", "Tibor Nagy"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["sebestyen.endre@med.semmelweis-univ.hu"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
-collaborative_notes:             # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
+collaborative_notes: https://pad.carpentries.org/2019-04-17-semmelweis            # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
 eventbrite: 57894714650           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
 
@@ -231,6 +231,9 @@ eventbrite: 57894714650           # optional: alphanumeric key for Eventbrite re
 <p id="collaborative_notes">
   We will use this <a href="{{page.collaborative_notes}}">collaborative document</a> for chatting, taking notes, and sharing URLs and bits of code.
 </p>
+<p>
+  Our delivery plan can be seen <a href="https://docs.google.com/document/d/12Q20LeESyX_40dOZ7my7owxIBMz8lfP5nPHHz7ETQ7U/edit">here.</a>
+</p>
 {% endif %}
 
 <hr/>
@@ -396,6 +399,6 @@ eventbrite: 57894714650           # optional: alphanumeric key for Eventbrite re
 </div> {% comment %} End of 'OpenRefine' section. {% endcomment %}
 
 <h2>Sponsors</h2>
-<p><img src="assets/img/omixon-logo.png" />Omixon Biocomputing Ltd.</p>
-<p><img src="assets/img/aok.png">Semmelweis University Scientific and Innovation Foundation</p>
+<p><a href="https://www.omixon.com/"><img src="assets/img/omixon-logo.png" /></a>Omixon Biocomputing Ltd.</p>
+<p><a href="http://semmelweis.hu/alapitvany/en/about-us-2/"><img src="assets/img/aok.png"></a>Semmelweis University - Science and Innovation Fund</p>
 
