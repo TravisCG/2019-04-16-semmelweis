@@ -2,14 +2,14 @@
 layout: workshop      # DON'T CHANGE THIS.
 carpentry: "dc"    # what kind of Carpentry (must be either "lc" or "dc" or "swc").  
                       # Be sure to update the Carpentry type in _config.yml as well.  
-venue: "Semmelweis University"        # brief name of host site without address (e.g., "Euphoric State University")
-address: "Semmelweis University, 1 st Department of Pathology and Experimental Cancer
-Research, H-1085 Budapest, Üllői út 26."      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
+venue: "Semmelweis University Data Carpentry Workshop"        # brief name of host site without address (e.g., "Euphoric State University")
+address: "Semmelweis University, 1st Department of Pathology and Experimental Cancer
+Research, H-1085 Budapest, Üllői út 26"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "hu"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
 latlng: "47.487300, 19.067110"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use https://www.latlong.net/)
 humandate: "Apr 17-18, 2019"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
-humantime: "9:00 am - 4:30 pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
+humantime: "9:00 am - 5:00 pm"    # human-readable times for the workshop (e.g., "9:00 am - 5:00 pm")
 startdate: 2019-04-17      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2019-04-18        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Mark D. Robinson", "Dmytro Fishman"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
@@ -177,6 +177,16 @@ eventbrite: 57894714650           # optional: alphanumeric key for Eventbrite re
     to-be-announced
   {% endif %}
   for more information.
+</p>
+
+<h3>Sponsors</h3>
+<p>This event is sponsored by <a href="http://semmelweis.hu/innovacios-igazgatosag/">Semmelweis University Science and Innovation Fund</a>, 
+<a href="https://www.omixon.com/">Omixon Biocomputing Ltd</a> and also supported by the <a href="http://elixir-hungary.org/">hungarian ELIXIR node</a>.</p>
+
+<p>
+<a href="http://semmelweis.hu/innovacios-igazgatosag/"><img height="100" src="assets/img/aok.png"></a>
+<a href="https://www.omixon.com/"><img height="100" src="assets/img/omixon-logo.png" /></a>
+<a href="http://www.elixir-hungary.org/"><img src="assets/img/elixir-hu-logo.png" /></a>
 </p>
 
 <hr/>
@@ -398,7 +408,4 @@ eventbrite: 57894714650           # optional: alphanumeric key for Eventbrite re
   </div>
 </div> {% comment %} End of 'OpenRefine' section. {% endcomment %}
 
-<h2>Sponsors</h2>
-<p><a href="https://www.omixon.com/"><img src="assets/img/omixon-logo.png" /></a>Omixon Biocomputing Ltd.</p>
-<p><a href="http://semmelweis.hu/alapitvany/en/about-us-2/"><img src="assets/img/aok.png"></a>Semmelweis University - Science and Innovation Fund</p>
 
